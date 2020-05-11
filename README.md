@@ -4,20 +4,24 @@
 </p>
 
 interactive-coding-challenges
+互动编码挑战
 ============
 
 **120+ continually updated, interactive, and test-driven coding challenges**, with [Anki flashcards](#anki-flashcards-coding-and-design).
+超过120个且不断更新的互动测试驱动编码挑战（Anki flashcards编码和设计）。
 
 Challenges focus on **algorithms** and **data structures** found in **coding interviews**.
-
+挑战侧重于算法和基于面试的数据结构。
 Each challenge has one or more reference solutions that are:
-
+每个挑战都会有一个或多个参考解决方案：
 * Fully functional
+* 实用
 * Unit tested
+* 已检验
 * Easy-to-understand
-
+* 易懂
 Challenges will soon provide on-demand [incremental hints](https://github.com/donnemartin/interactive-coding-challenges/issues/22) to help you arrive at the optimal solution.
-
+挑战将提供增量提示功能，帮助您获得最佳解决方案。
 Notebooks also detail:
 
 * Constraints
